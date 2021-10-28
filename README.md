@@ -119,4 +119,4 @@ Para executar a testsuite, execute `./vendor/bin/phpunit` via linha de comando.
 2. Crie sua branch para a funcionalidade (`git checkout -b nova-funcionalidade`)
 3. Faça o commit suas modificações (`git commit -am 'Adiciona nova funcionalidade'`)
 4. Faça o push para a branch (`git push origin nova-funcionalidade`)
-5. Crie um novo Pull Request
+5. Crie um novo Pull Request.
